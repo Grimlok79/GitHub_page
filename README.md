@@ -1,5 +1,5 @@
 # Денис Степанов
-![](https://github.com/Grimlok79/GitHub_page/blob/main/StepanovDG.jpg)
+![](StepanovDG.jpg)
 ## Контакты
 8-920-100-47-37
 stepandenis@mail.ru
